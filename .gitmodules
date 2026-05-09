@@ -1,0 +1,3 @@
+[submodule "python/ADS1x15-ADC"]
+	path = python/ADS1x15-ADC
+	url = https://github.com/RobTillaart/ADS1X15
